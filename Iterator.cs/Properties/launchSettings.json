@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Iterator.cs": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:50666;http://localhost:50667"
+    }
+  }
+}
